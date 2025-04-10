@@ -73,7 +73,7 @@ Welcome to **E-Shop**, a dynamic, responsive, and lightweight e-commerce platfor
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ecommerce-project.git
+   git clone https://github.com/PatidarKing/ecommerce-project.git
    ```
 
 2. **Import the Database**
